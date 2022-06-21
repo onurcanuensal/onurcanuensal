@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I love brussels sprouts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
